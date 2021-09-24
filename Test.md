@@ -10,7 +10,7 @@ This is a test
 
 4 there are this many cool things on this line.
 
-5 there are this many cool things on this line.
+5 there are this many cool things on this line. Let's create a merge confilct!
 
 6 there are this many cool things on this line.
 
