@@ -14,7 +14,7 @@ This is a test
 
 6 there are this many cool things on this line.
 
-7 there are this many cool things on this line.
+7 there are this many cool things on this line.Here's a change by Will
 
 8 there are this many cool things on this line.
 
