@@ -37,3 +37,7 @@ if you read this you are cool
 I like to eat mango ice cream
 suddenly an extra line
 10
+
+## Mrunal's commits
+Random text
+merge conflict code.
