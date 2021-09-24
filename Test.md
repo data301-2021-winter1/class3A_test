@@ -20,9 +20,8 @@ This is a test
 
 9 there are this many cool things on this line.
 
-## Aditya's Commits
-This is a random line of my commits 
-adn now i WILL PUSH IT
+## Sam's commits
+random stuff
 
 ## max's commits 
 random text is here
