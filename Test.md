@@ -38,3 +38,10 @@ hello hello hello hello
 Smile
 
 10
+
+## egor's commits
+guten tag
+every 60 seconds in Germany one minute passes
+writing some stuff
+Alejandro has already done this in another course
+My england is very good and there's a city called london in ontario
