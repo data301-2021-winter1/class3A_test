@@ -10,7 +10,7 @@ This is a test
 
 4 there are this many cool things on this line.
 
-5 there are this many cool things on this line. Let's create a merge confilct!
+5 there are this many cool things on this line.
 
 6 there are this many cool things on this line.
 
@@ -33,3 +33,5 @@ if you read this you are cool
 I like to eat mango ice cream
 suddenly an extra line
 10
+
+I am editing this file
