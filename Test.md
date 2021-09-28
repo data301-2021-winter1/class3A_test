@@ -20,6 +20,9 @@ This is a test
 
 9 there are this many cool things on this line.
 
+## Sam's commits
+random stuff
+
 ## max's commits 
 random text is here
 123456
@@ -38,3 +41,7 @@ hello hello hello hello
 Smile
 
 10
+
+## Mrunal's commits
+Random text
+merge conflict code.
